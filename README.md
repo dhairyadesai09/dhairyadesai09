@@ -5,7 +5,7 @@
 Mechatronics student (B.Eng., expected 2027) at THWS, Schweinfurt, Germany.
 I build automation systems that connect **mechatronics systems, robotics, computer vision, and IIoT**.
 
-📌 Currently seeking a **mandatory internship (Pflichtpraktikum) from October 2026**.
+📌 Currently seeking a **mandatory internship (Pflichtpraktikum)**.
 
 ## 🔧 Skills
 - **Programming:** C++, Java, Python, Embedded C, SQL
