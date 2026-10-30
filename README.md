@@ -1,16 +1,31 @@
-## Hi there 👋
+🇬🇧 English | [🇩🇪 Deutsch](README.de.md)
 
-<!--
-**dhairyadesai09/dhairyadesai09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dhairya Desai 👋
 
-Here are some ideas to get you started:
+Mechatronics student (B.Eng., expected 2027) at THWS, Schweinfurt, Germany.
+I build automation systems that connect **mechatronics systems, robotics, computer vision, and IIoT**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Currently seeking a **mandatory internship (Pflichtpraktikum) from October 2026**.
+
+## 🔧 Skills
+- **Programming:** C++, Java, Python, Embedded C, SQL
+- **Automation:** Siemens TIA Portal (SCL, STL, LAD), Node-RED, MQTT, OPC UA , Github
+- **Robotics & Simulation:** Yaskawa MOTOMAN GP7, OpenCV, MATLAB, Simulink, ROS2
+- **CAD:** Autodesk Fusion 360, SolidWorks, AutoCAD
+
+## 🚀 Featured Projects
+| Project | Description | Tech |
+|---|---|---|
+| [vision-pipeline](link) | Real-time object detection for robotic handling | Python, OpenCV, C++ |
+| [iiot-pipeline](link) | Real-time data acquisition to SQL and HMI | Node-RED, MQTT, OPC UA |
+| [hydraulic-digital-twin](link) | Digital twin of a valve-controlled actuator (95% correlation) | MATLAB, Simulink |
+| [elevator-plc](link) | Multi-wing elevator control | TIA Portal, SCL |
+
+## 💼 Experience
+- **Fraunhofer ISC**: Student R&D Assistant, Automated Battery Recycling (03–05/2026)
+
+## 🌐 Languages
+English (C2) · German (B1) · Gujarati (native)
+
+## 📫 Contact
+[LinkedIn](https://linkedin.com/in/dhairyadesai119) · dhairyadesai53@gmail.com
